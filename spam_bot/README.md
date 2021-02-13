@@ -4,5 +4,5 @@ Essa pasta contém um programa escrito em python que "spamma" mensagems retirada
 
 documentações úteis:
 
-pyperclip: https://pyperclip.readthedocs.io/en/latest/ \n
+pyperclip: https://pyperclip.readthedocs.io/en/latest/ 
 PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/
