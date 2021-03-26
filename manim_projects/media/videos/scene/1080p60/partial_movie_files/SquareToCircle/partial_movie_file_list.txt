@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/scene/1080p60/partial_movie_files/SquareToCircle/450974505_600493968_3045458474.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/scene/1080p60/partial_movie_files/SquareToCircle/2788726626_1436789216_3045458474.mp4'
+file 'file:C:/Users/André Santos/Documents/manim_projects/media/videos/scene/1080p60/partial_movie_files/SquareToCircle/2788726626_2237162485_3045458474.mp4'
