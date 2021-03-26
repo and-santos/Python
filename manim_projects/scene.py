@@ -11,5 +11,5 @@ class SquareToCircle(Scene):
         square.rotate(-3 * TAU / 8)  # Rotate a certain amount
 
         self.play(ShowCreation(square))
-        self.play(Transform(square,circle))
+        self.play(Transform(square, circle))
         self.play(FadeOut(square))
